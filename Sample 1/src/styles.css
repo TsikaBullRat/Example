@@ -1,0 +1,32 @@
+h1{
+    color: blueviolet;
+}
+
+.text1{
+    color: brown;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Pixelify Sans', sans-serif;
+}
+p{
+    font-family: 'Young Serif', serif;
+}
+
+table, th, td{
+    border: solid 2px black;
+    background-color: var();
+}
+
+.box1 > h1, .box2 > h5, .box3 > h1{
+    color: yellowgreen;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+a{
+  font-size: 50px;  
+  text-decoration: none;
+}
